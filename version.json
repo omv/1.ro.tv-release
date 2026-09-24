@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
+  "releaseNotes": "Versiune inițială: Suport Android TV, activare locală TOTP și auto-updater.",
+  "forceUpdate": false
+}
