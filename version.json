@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "1.1",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiune inițială: Suport Android TV, activare locală TOTP și auto-updater.",
+  "releaseNotes": "Versiunea 1.1: Sincronizare automată a surselor criptate ce.ke și optimizări de stabilitate.",
   "forceUpdate": false,
   "sourcesVersion": 2,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
