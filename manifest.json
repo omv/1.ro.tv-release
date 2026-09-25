@@ -1,0 +1,33 @@
+{
+  "id": "tvron",
+  "name": "TV RON",
+  "version": "1.0.0",
+  "description": "Canale TV din România via tvron.me",
+  "author": "Community",
+  "icon": "https://tvron.me/favicon.ico",
+  "epgUrl": "https://iptv-epg.org/files/epg-ro.xml",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0",
+  "resolver": {
+    "type": "TVRON_WEB_EMBED",
+    "embedBaseUrl": "https://tvron.me/embed_player.php?id=",
+    "playerBaseUrl": "https://tvron.me/player.php?id={id}&f={file}",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0",
+      "Referer": "https://tvron.me/",
+      "Origin": "https://tvron.me",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "cross-site",
+      "Accept": "*/*"
+    },
+    "playbackHeaders": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0",
+      "Referer": "https://tvron.me/",
+      "Origin": "https://tvron.me",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "cross-site",
+      "Accept": "*/*"
+    }
+  }
+}

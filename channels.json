@@ -1,0 +1,926 @@
+[
+  {
+    "id": 1,
+    "name": "AMC",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/amc.webp",
+    "sourceParam": "48"
+  },
+  {
+    "id": 2,
+    "name": "AXN Black",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/axn-black.webp",
+    "sourceParam": "64"
+  },
+  {
+    "id": 3,
+    "name": "AXN HD",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/axn-hd.webp",
+    "sourceParam": "67"
+  },
+  {
+    "id": 4,
+    "name": "AXN Spin",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/axn-spin.webp",
+    "sourceParam": "65"
+  },
+  {
+    "id": 5,
+    "name": "AXN White",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/axn-white.webp",
+    "sourceParam": "66"
+  },
+  {
+    "id": 6,
+    "name": "Acasă",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/acasa.webp",
+    "sourceParam": "127"
+  },
+  {
+    "id": 7,
+    "name": "Acasă Gold",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/acasa-gold.webp",
+    "sourceParam": "68"
+  },
+  {
+    "id": 8,
+    "name": "Antena 1",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/antena-1.webp",
+    "sourceParam": "95"
+  },
+  {
+    "id": 9,
+    "name": "Antena 3 CNN",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/antena-3-cnn.webp",
+    "sourceParam": "88"
+  },
+  {
+    "id": 10,
+    "name": "Antena Stars",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/antena-stars.webp",
+    "sourceParam": "50"
+  },
+  {
+    "id": 11,
+    "name": "Arges TV",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/arges-tv.webp",
+    "sourceParam": "10"
+  },
+  {
+    "id": 12,
+    "name": "Atomic TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/atomic-tv.webp",
+    "sourceParam": "29"
+  },
+  {
+    "id": 13,
+    "name": "B1 TV",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/b1-tv.webp",
+    "sourceParam": "17"
+  },
+  {
+    "id": 14,
+    "name": "BBC Earth",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/bbc-earth.webp",
+    "sourceParam": "98"
+  },
+  {
+    "id": 15,
+    "name": "BBC First",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/bbc-first.webp",
+    "sourceParam": "100"
+  },
+  {
+    "id": 16,
+    "name": "BBC News",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/bbc-news.webp",
+    "sourceParam": "18"
+  },
+  {
+    "id": 17,
+    "name": "Balcan Music TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/balcan-music-tv.webp",
+    "sourceParam": "53"
+  },
+  {
+    "id": 18,
+    "name": "Bollywood Clasic",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/bollywood-clasic.webp",
+    "sourceParam": "78"
+  },
+  {
+    "id": 19,
+    "name": "CNN",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/cnn.webp",
+    "sourceParam": "19"
+  },
+  {
+    "id": 20,
+    "name": "Cartoon Network",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/cartoon-network.webp",
+    "sourceParam": "101"
+  },
+  {
+    "id": 21,
+    "name": "Cartoonito",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/cartoonito.webp",
+    "sourceParam": "79"
+  },
+  {
+    "id": 22,
+    "name": "Catine.ro",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/catinero.webp",
+    "sourceParam": "9"
+  },
+  {
+    "id": 23,
+    "name": "Chat",
+    "group": "Generale",
+    "logo": "",
+    "sourceParam": "chat"
+  },
+  {
+    "id": 24,
+    "name": "Cinemaraton",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/cinemaraton.webp",
+    "sourceParam": "133"
+  },
+  {
+    "id": 25,
+    "name": "Cinemaraton Plus",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/cinemaraton-plus.webp",
+    "sourceParam": "143"
+  },
+  {
+    "id": 26,
+    "name": "Cinemax",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/cinemax.webp",
+    "sourceParam": "118"
+  },
+  {
+    "id": 27,
+    "name": "Cinemax 2",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/cinemax-2.webp",
+    "sourceParam": "117"
+  },
+  {
+    "id": 28,
+    "name": "Comedy Central",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/comedy-central.webp",
+    "sourceParam": "57"
+  },
+  {
+    "id": 29,
+    "name": "Comedy Play",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/comedy-play.webp",
+    "sourceParam": "27"
+  },
+  {
+    "id": 30,
+    "name": "Credo TV",
+    "group": "Lifestyle",
+    "logo": "https://tvron.me/uploads/webp/credo-tv.webp",
+    "sourceParam": "26"
+  },
+  {
+    "id": 31,
+    "name": "Crime &amp; Investigation",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/crime-investigation.webp",
+    "sourceParam": "55"
+  },
+  {
+    "id": 32,
+    "name": "Despre Noi",
+    "group": "Generale",
+    "logo": "",
+    "sourceParam": "despre-noi"
+  },
+  {
+    "id": 33,
+    "name": "Digi 24",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/digi-24.webp",
+    "sourceParam": "30"
+  },
+  {
+    "id": 34,
+    "name": "Digi Animal World",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/digi-animal-world.webp",
+    "sourceParam": "137"
+  },
+  {
+    "id": 35,
+    "name": "Digi Life",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/digi-life.webp",
+    "sourceParam": "138"
+  },
+  {
+    "id": 36,
+    "name": "Digi Sport 1",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/digi-sport-1.webp",
+    "sourceParam": "46"
+  },
+  {
+    "id": 37,
+    "name": "Digi Sport 2",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/digi-sport-2.webp",
+    "sourceParam": "45"
+  },
+  {
+    "id": 38,
+    "name": "Digi Sport 3",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/digi-sport-3.webp",
+    "sourceParam": "44"
+  },
+  {
+    "id": 39,
+    "name": "Digi Sport 4",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/digi-sport-4.webp",
+    "sourceParam": "43"
+  },
+  {
+    "id": 40,
+    "name": "Digi World",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/digi-world.webp",
+    "sourceParam": "139"
+  },
+  {
+    "id": 41,
+    "name": "Discovery Channel",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/discovery-channel.webp",
+    "sourceParam": "47"
+  },
+  {
+    "id": 42,
+    "name": "Disney Channel",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/disney-channel.webp",
+    "sourceParam": "104"
+  },
+  {
+    "id": 43,
+    "name": "Disney Junior",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/disney-junior.webp",
+    "sourceParam": "105"
+  },
+  {
+    "id": 44,
+    "name": "Diva",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/diva.webp",
+    "sourceParam": "56"
+  },
+  {
+    "id": 45,
+    "name": "Dizi",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/dizi.webp",
+    "sourceParam": "129"
+  },
+  {
+    "id": 46,
+    "name": "Duck TV",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/duck-tv.webp",
+    "sourceParam": "96"
+  },
+  {
+    "id": 47,
+    "name": "Etno TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/etno-tv.webp",
+    "sourceParam": "62"
+  },
+  {
+    "id": 48,
+    "name": "EuroSport 1",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/eurosport-1.webp",
+    "sourceParam": "61"
+  },
+  {
+    "id": 49,
+    "name": "EuroSport 2",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/eurosport-2.webp",
+    "sourceParam": "60"
+  },
+  {
+    "id": 50,
+    "name": "Exploris",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/exploris.webp",
+    "sourceParam": "141"
+  },
+  {
+    "id": 51,
+    "name": "Favorit",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/favorit.webp",
+    "sourceParam": "83"
+  },
+  {
+    "id": 52,
+    "name": "Film Cafe",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/film-cafe.webp",
+    "sourceParam": "121"
+  },
+  {
+    "id": 53,
+    "name": "Film Mania",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/film-mania.webp",
+    "sourceParam": "134"
+  },
+  {
+    "id": 54,
+    "name": "Film Now",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/film-now.webp",
+    "sourceParam": "120"
+  },
+  {
+    "id": 55,
+    "name": "FilmBox Hits",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/filmbox-hits.webp",
+    "sourceParam": "130"
+  },
+  {
+    "id": 56,
+    "name": "FilmBox One",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/filmbox-one.webp",
+    "sourceParam": "113"
+  },
+  {
+    "id": 57,
+    "name": "Filmbox Stars",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/filmbox-stars.webp",
+    "sourceParam": "135"
+  },
+  {
+    "id": 58,
+    "name": "Filme La Tv",
+    "group": "Filme",
+    "logo": "",
+    "sourceParam": "filme-la-tv"
+  },
+  {
+    "id": 59,
+    "name": "HBO",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/hbo.webp",
+    "sourceParam": "116"
+  },
+  {
+    "id": 60,
+    "name": "HBO 2",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/hbo-2.webp",
+    "sourceParam": "115"
+  },
+  {
+    "id": 61,
+    "name": "HBO 3",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/hbo-3.webp",
+    "sourceParam": "114"
+  },
+  {
+    "id": 62,
+    "name": "HGTV",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/hgtv.webp",
+    "sourceParam": "14"
+  },
+  {
+    "id": 63,
+    "name": "Happy Channel",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/happy-channel.webp",
+    "sourceParam": "87"
+  },
+  {
+    "id": 64,
+    "name": "Hello Taste",
+    "group": "Lifestyle",
+    "logo": "https://tvron.me/uploads/webp/hello-taste.webp",
+    "sourceParam": "6"
+  },
+  {
+    "id": 65,
+    "name": "History",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/history.webp",
+    "sourceParam": "85"
+  },
+  {
+    "id": 66,
+    "name": "ID Investigation Discovery",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/id-investigation-discovery.webp",
+    "sourceParam": "69"
+  },
+  {
+    "id": 67,
+    "name": "Impact TV Manele",
+    "group": "Muzică",
+    "logo": "https://tvron.me//default/webp/444-impact-tv.webp",
+    "sourceParam": "12"
+  },
+  {
+    "id": 68,
+    "name": "Impact Tv Dance",
+    "group": "Muzică",
+    "logo": "https://tvron.me//default/webp/444-impact-tv.webp",
+    "sourceParam": "22"
+  },
+  {
+    "id": 69,
+    "name": "Jimjam",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/jimjam.webp",
+    "sourceParam": "54"
+  },
+  {
+    "id": 70,
+    "name": "KISS TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/kiss-tv.webp",
+    "sourceParam": "80"
+  },
+  {
+    "id": 71,
+    "name": "Kanal D",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/kanal-d.webp",
+    "sourceParam": "93"
+  },
+  {
+    "id": 72,
+    "name": "Kanal D2",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/kanal-d2.webp",
+    "sourceParam": "52"
+  },
+  {
+    "id": 73,
+    "name": "MAGIC TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/magic-tv.webp",
+    "sourceParam": "5"
+  },
+  {
+    "id": 74,
+    "name": "Meciuri",
+    "group": "Generale",
+    "logo": "",
+    "sourceParam": "meciuri-live"
+  },
+  {
+    "id": 75,
+    "name": "MediCOOL TV",
+    "group": "Lifestyle",
+    "logo": "https://tvron.me/uploads/webp/medicool-tv.webp",
+    "sourceParam": "7"
+  },
+  {
+    "id": 76,
+    "name": "Metropola TV",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/metropola-tv.webp",
+    "sourceParam": "23"
+  },
+  {
+    "id": 77,
+    "name": "Minimax",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/minimax.webp",
+    "sourceParam": "123"
+  },
+  {
+    "id": 78,
+    "name": "Mireasa TV",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/mireasa-tv.webp",
+    "sourceParam": "13"
+  },
+  {
+    "id": 79,
+    "name": "Mooz Dance",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/mooz-dance.webp",
+    "sourceParam": "3"
+  },
+  {
+    "id": 80,
+    "name": "Mooz Hits",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/mooz-hits.webp",
+    "sourceParam": "2"
+  },
+  {
+    "id": 81,
+    "name": "Mooz Ro",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/mooz-ro.webp",
+    "sourceParam": "1"
+  },
+  {
+    "id": 82,
+    "name": "Music Channel",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/music-channel.webp",
+    "sourceParam": "97"
+  },
+  {
+    "id": 83,
+    "name": "Nasul TV",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/nasul-tv.webp",
+    "sourceParam": "16"
+  },
+  {
+    "id": 84,
+    "name": "National 24 Plus",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/national-24-plus.webp",
+    "sourceParam": "51"
+  },
+  {
+    "id": 85,
+    "name": "National Geographic",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/national-geographic.webp",
+    "sourceParam": "108"
+  },
+  {
+    "id": 86,
+    "name": "National Geographic Wild",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/national-geographic-wild.webp",
+    "sourceParam": "131"
+  },
+  {
+    "id": 87,
+    "name": "National TV",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/national-tv.webp",
+    "sourceParam": "91"
+  },
+  {
+    "id": 88,
+    "name": "Nick Jr.",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/nick-jr.webp",
+    "sourceParam": "102"
+  },
+  {
+    "id": 89,
+    "name": "Nickelodeon",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/nickelodeon.webp",
+    "sourceParam": "106"
+  },
+  {
+    "id": 90,
+    "name": "Nicktoons",
+    "group": "Desene",
+    "logo": "https://tvron.me/uploads/webp/nicktoons.webp",
+    "sourceParam": "103"
+  },
+  {
+    "id": 91,
+    "name": "Nostalgia TV",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/nostalgia-tv.webp",
+    "sourceParam": "136"
+  },
+  {
+    "id": 92,
+    "name": "PRO Cinema",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/pro-cinema.webp",
+    "sourceParam": "84"
+  },
+  {
+    "id": 93,
+    "name": "PRO TV",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/pro-tv.webp",
+    "sourceParam": "94"
+  },
+  {
+    "id": 94,
+    "name": "Prima Comedy",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/prima-comedy.webp",
+    "sourceParam": "140"
+  },
+  {
+    "id": 95,
+    "name": "Prima News",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/prima-news.webp",
+    "sourceParam": "40"
+  },
+  {
+    "id": 96,
+    "name": "Prima PPV 1",
+    "group": "Sport",
+    "logo": "https://tvron.me//default/webp/6454-ppv-1.webp",
+    "sourceParam": "37"
+  },
+  {
+    "id": 97,
+    "name": "Prima PPV 2",
+    "group": "Sport",
+    "logo": "https://tvron.me//default/webp/634523-ppv-2.webp",
+    "sourceParam": "36"
+  },
+  {
+    "id": 98,
+    "name": "Prima PPV 3",
+    "group": "Sport",
+    "logo": "https://tvron.me//default/webp/6574-ppv-3.webp",
+    "sourceParam": "35"
+  },
+  {
+    "id": 99,
+    "name": "Prima Sport 1",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/prima-sport-1.webp",
+    "sourceParam": "124"
+  },
+  {
+    "id": 100,
+    "name": "Prima Sport 2",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/prima-sport-2.webp",
+    "sourceParam": "125"
+  },
+  {
+    "id": 101,
+    "name": "Prima Sport 3",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/prima-sport-3.webp",
+    "sourceParam": "74"
+  },
+  {
+    "id": 102,
+    "name": "Prima Sport 4",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/prima-sport-4.webp",
+    "sourceParam": "73"
+  },
+  {
+    "id": 103,
+    "name": "Prima Sport 5",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/prima-sport-5.webp",
+    "sourceParam": "72"
+  },
+  {
+    "id": 104,
+    "name": "Prima TV",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/prima-tv.webp",
+    "sourceParam": "92"
+  },
+  {
+    "id": 105,
+    "name": "Pro Arena",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/pro-arena.webp",
+    "sourceParam": "71"
+  },
+  {
+    "id": 106,
+    "name": "RO-TV Valencia",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/ro-tv-valencia.webp",
+    "sourceParam": "8"
+  },
+  {
+    "id": 107,
+    "name": "Rapsodia TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/rapsodia-tv.webp",
+    "sourceParam": "132"
+  },
+  {
+    "id": 108,
+    "name": "Realitatea Plus",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/realitatea-plus.webp",
+    "sourceParam": "89"
+  },
+  {
+    "id": 109,
+    "name": "Rock TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/rock-tv.webp",
+    "sourceParam": "41"
+  },
+  {
+    "id": 110,
+    "name": "România TV",
+    "group": "Știri",
+    "logo": "https://tvron.me/uploads/webp/romania-tv.webp",
+    "sourceParam": "90"
+  },
+  {
+    "id": 111,
+    "name": "SkyShowTime 1",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/skyshowtime-1.webp",
+    "sourceParam": "59"
+  },
+  {
+    "id": 112,
+    "name": "SkyShowTime 2",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/skyshowtime-2.webp",
+    "sourceParam": "58"
+  },
+  {
+    "id": 113,
+    "name": "Smart TV",
+    "group": "Știri",
+    "logo": "https://tvron.me//default/webp/5343-smart-tv.webp",
+    "sourceParam": "4"
+  },
+  {
+    "id": 114,
+    "name": "Speranta TV",
+    "group": "Lifestyle",
+    "logo": "https://tvron.me/uploads/webp/speranta-tv.webp",
+    "sourceParam": "25"
+  },
+  {
+    "id": 115,
+    "name": "Sport Extra",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/sport-extra.webp",
+    "sourceParam": "77"
+  },
+  {
+    "id": 116,
+    "name": "TLC",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/tlc.webp",
+    "sourceParam": "99"
+  },
+  {
+    "id": 117,
+    "name": "TV Paprika",
+    "group": "Lifestyle",
+    "logo": "https://tvron.me/uploads/webp/tv-paprika.webp",
+    "sourceParam": "24"
+  },
+  {
+    "id": 118,
+    "name": "TVR 1",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/tvr-1.webp",
+    "sourceParam": "82"
+  },
+  {
+    "id": 119,
+    "name": "TVR 2 HD",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/tvr-2-hd.webp",
+    "sourceParam": "81"
+  },
+  {
+    "id": 120,
+    "name": "TVR 3",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/tvr-3.webp",
+    "sourceParam": "34"
+  },
+  {
+    "id": 121,
+    "name": "TVR Internațional",
+    "group": "Generale",
+    "logo": "https://tvron.me/uploads/webp/tvr-international.webp",
+    "sourceParam": "15"
+  },
+  {
+    "id": 122,
+    "name": "TVR Sport",
+    "group": "Sport",
+    "logo": "https://tvron.me/uploads/webp/tvr-sport.webp",
+    "sourceParam": "20"
+  },
+  {
+    "id": 123,
+    "name": "Taraf TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/taraf-tv.webp",
+    "sourceParam": "49"
+  },
+  {
+    "id": 124,
+    "name": "Tv Arad",
+    "group": "Lifestyle",
+    "logo": "https://tvron.me/uploads/webp/tv-arad.webp",
+    "sourceParam": "11"
+  },
+  {
+    "id": 125,
+    "name": "U TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/u-tv.webp",
+    "sourceParam": "28"
+  },
+  {
+    "id": 126,
+    "name": "Viasat Epic Drama",
+    "group": "Filme",
+    "logo": "https://tvron.me//default/webp/1467-epic-drama-hd.webp",
+    "sourceParam": "112"
+  },
+  {
+    "id": 127,
+    "name": "Viasat Explore",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/viasat-explore.webp",
+    "sourceParam": "33"
+  },
+  {
+    "id": 128,
+    "name": "Viasat History",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/viasat-history.webp",
+    "sourceParam": "31"
+  },
+  {
+    "id": 129,
+    "name": "Viasat Kino",
+    "group": "Filme",
+    "logo": "https://tvron.me/uploads/webp/viasat-kino.webp",
+    "sourceParam": "122"
+  },
+  {
+    "id": 130,
+    "name": "Viasat Nature",
+    "group": "Documentare",
+    "logo": "https://tvron.me/uploads/webp/viasat-nature.webp",
+    "sourceParam": "32"
+  },
+  {
+    "id": 131,
+    "name": "Warner TV",
+    "group": "Filme",
+    "logo": "https://tvron.me//chsvg/34-warnertv.svg",
+    "sourceParam": "126"
+  },
+  {
+    "id": 132,
+    "name": "ZU TV",
+    "group": "Muzică",
+    "logo": "https://tvron.me/uploads/webp/zu-tv.webp",
+    "sourceParam": "63"
+  }
+]
