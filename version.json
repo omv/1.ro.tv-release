@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 1.1: Sincronizare automată a surselor criptate ce.ke și optimizări de stabilitate.",
+  "releaseNotes": "Versiunea 1.2: Reparare completă ghid TV (EPG) cu date live zilnice, cache local rapid și aliasuri posturi.",
   "forceUpdate": false,
   "sourcesVersion": 2,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
