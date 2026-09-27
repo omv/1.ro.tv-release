@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 1.2: Reparare completă ghid TV (EPG) cu date live zilnice, cache local rapid și aliasuri posturi.",
+  "releaseNotes": "Versiunea 1.3: Adăugată secțiune de pornire automată la boot și wakeup în dialogul de surse TV.",
   "forceUpdate": false,
   "sourcesVersion": 2,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
