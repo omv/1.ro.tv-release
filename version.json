@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 1.4: Actualizări de stabilitate și sincronizare surse TV.",
+  "releaseNotes": "Versiunea 1.5: Actualizare logo și identitate vizuală aplicație.",
   "forceUpdate": false,
   "sourcesVersion": 4,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
