@@ -2,8 +2,8 @@
   "versionCode": 5,
   "versionName": "1.4",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 1.4: Tema dark permanenta, pornire automata la boot si wakeup (Fire TV, Google TV), suport TCL Safety Guard (Auto Launch Permission).",
+  "releaseNotes": "Versiunea 1.4 (sources v3): Actualizări surse TV live.",
   "forceUpdate": false,
-  "sourcesVersion": 2,
+  "sourcesVersion": 3,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
 }
