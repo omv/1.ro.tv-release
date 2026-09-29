@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7",
+  "versionCode": 8,
+  "versionName": "1.8",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 1.7: Refactorizare arhitectură MVVM, optimizare memorie EPG, timere auto-închidere 7 secunde, compatibilitate completă TV și Mobile.",
+  "releaseNotes": "Versiunea 1.8: Optimizare completă R8 & ProGuard, reducere dimensiune APK cu peste 50%, code shrinking și protecție bytecode.",
   "forceUpdate": false,
   "sourcesVersion": 4,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
