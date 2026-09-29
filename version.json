@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8",
+  "versionCode": 9,
+  "versionName": "1.9",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 1.8: Optimizare completă R8 & ProGuard, reducere dimensiune APK cu peste 50%, code shrinking și protecție bytecode.",
+  "releaseNotes": "Versiunea 1.9: Compatibilitate completă cu Android 5.0 - 7.1.2 (API 21+, Fire OS / Fire TV Stick), rezolvare eroare ThreadLocal.",
   "forceUpdate": false,
   "sourcesVersion": 4,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
