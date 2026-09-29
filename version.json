@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.7",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 1.5: Actualizare logo și identitate vizuală aplicație.",
+  "releaseNotes": "Versiunea 1.7: Refactorizare arhitectură MVVM, optimizare memorie EPG, timere auto-închidere 7 secunde, compatibilitate completă TV și Mobile.",
   "forceUpdate": false,
   "sourcesVersion": 4,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
