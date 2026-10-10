@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.9",
+  "versionCode": 10,
+  "versionName": "2.0",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 1.9: Compatibilitate completă cu Android 5.0 - 7.1.2 (API 21+, Fire OS / Fire TV Stick), rezolvare eroare ThreadLocal.",
+  "releaseNotes": "Versiunea 2.0: Rezolvare Sursa 1 (tvtun) cu motor sandboxed anti-bot WebStreamResolver, reîmprospătare continuă automată în fundal a tokenurilor fără întrerupere la redări > 3 ore, suport universal fallback pentru surse web.",
   "forceUpdate": false,
   "sourcesVersion": 4,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
