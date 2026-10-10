@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "2.0",
+  "versionCode": 11,
+  "versionName": "2.1",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 2.0: Rezolvare Sursa 1 (tvtun) cu motor sandboxed anti-bot WebStreamResolver, reîmprospătare continuă automată în fundal a tokenurilor fără întrerupere la redări > 3 ore, suport universal fallback pentru surse web.",
+  "releaseNotes": "Versiunea 2.1: Rezolvare definitivă Sursa 1 (tvtun) cu decodare fluxuri CDN master playlist, reîmprospătare token în fundal și redare instantă.",
   "forceUpdate": false,
   "sourcesVersion": 4,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
