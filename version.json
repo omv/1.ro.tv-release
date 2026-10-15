@@ -2,7 +2,7 @@
   "versionCode": 13,
   "versionName": "2.3",
   "apkUrl": "https://github.com/omv/1.ro.tv-release/raw/main/unu.ro.tv-release.apk",
-  "releaseNotes": "Versiunea 2.3: Îmbunătățiri de stabilitate și remedieri.",
+  "releaseNotes": "Version 2.3: Stability updates",
   "forceUpdate": false,
   "sourcesVersion": 4,
   "sourcesUrl": "https://github.com/omv/1.ro.tv-release/raw/main/ce.ke"
